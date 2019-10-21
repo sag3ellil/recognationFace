@@ -1,0 +1,34 @@
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\detecteur de visage(0).exe.config
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\detecteur de visage(0).exe
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\detecteur de visage(0).pdb
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\Emgu.CV.UI.dll
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\Emgu.CV.UI.GL.dll
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\Emgu.CV.World.dll
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\ZedGraph.dll
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\Emgu.CV.UI.xml
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\Emgu.CV.UI.GL.xml
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\Emgu.CV.World.xml
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur de visage(0).csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur_de_visage_0_.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur_de_visage_0_.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur de visage(0).csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur de visage(0).exe
+c:\users\dell\documents\visual studio 2015\Projects\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur de visage(0).pdb
+D:\visual studio 2015 Projects\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\detecteur de visage(0).exe.config
+D:\visual studio 2015 Projects\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur de visage(0).exe
+D:\visual studio 2015 Projects\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur de visage(0).pdb
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\detecteur de visage(0).exe.config
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\detecteur de visage(0).exe
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\detecteur de visage(0).pdb
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\ZedGraph.dll
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur de visage(0).csprojAssemblyReference.cache
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur_de_visage_0_.Form1.resources
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur_de_visage_0_.Properties.Resources.resources
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur de visage(0).csproj.GenerateResource.cache
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur de visage(0).csproj.CoreCompileInputs.cache
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur de visage(0).csproj.CopyComplete
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur de visage(0).exe
+C:\Users\Level\Downloads\detecteur de visage(0)\detecteur de visage(0)\detecteur de visage(0)\obj\x64\Debug\detecteur de visage(0).pdb
